@@ -208,6 +208,6 @@ PROYECYO/
 
 
 DESARROLLADO POR: 
-Juan Jose Baloco Sanchez, Codigo:2230722
-David Astudillo Palmira, Codigo: 2231650
+Juan Jose Baloco Sanchez, Codigo:2230722,
+David Astudillo Palmira, Codigo: 2231650,
 santiago vivas amaya, Codigo: 2230109
