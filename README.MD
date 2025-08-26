@@ -1,4 +1,3 @@
-![alt text](image.png)
 
 
 Una aplicación de gestión de biblioteca personal construida con React (frontend) y FastAPI (backend), que demuestra la arquitectura SPA + API REST con funcionalidades CRUD completas.
@@ -211,4 +210,5 @@ DESARROLLADO POR:
  Juan Jose Baloco Sanchez, Codigo:2230722,
  David Astudillo Palmira, Codigo: 2231650,
  santiago vivas amaya, Codigo: 2230109
+
 
